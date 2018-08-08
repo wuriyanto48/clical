@@ -5,16 +5,18 @@
 ## Run
 
     - Build first
-    ```shell
-    $ go build
-    ```
+
+```shell
+$ go build
+```
 
     - Example add operation
-    ```shell
-    $ ./clical add 5 5
-    ```
+```shell
+$ ./clical add 5 5
+```
 
 ### Testing
-    ```shell
-    $ go test ./...
-    ```
+
+```shell
+$ go test ./...
+```
